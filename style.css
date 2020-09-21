@@ -1,0 +1,20 @@
+body {background-image: url("./photo-1533035353720-f1c6a75cd8ab.jpeg");}
+.header{ color:#6ed0f7;
+}
+.my-container{background: white;
+     max-width:80%;
+     
+}
+.my-button{margin: 0 auto;
+padding: 10%;}
+ .my-form{ 
+    margin: 5% auto ;
+} 
+.my-container img { margin: 0.5em;}
+.my-container form { width: 80%;}
+.navbar-brand{ background-color: #6ed0f7;}
+
+@media only screen and (max-width: 400px) { 
+   
+    .my-container{max-width: 100%;}
+}
