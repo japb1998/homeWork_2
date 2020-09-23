@@ -1,6 +1,26 @@
 body {
     background-image: url("./photo-1533035353720-f1c6a75cd8ab.jpeg");
+    font-family: 'Architects Daughter', cursive, serif;
 }
+/* Name Styling */
+.navbar-brand {
+    background-color: #6ed0f7;
+    border-radius: 50%;
+    padding: 10px;
+    border: 1px solid black;
+}
+/* nav-item's styling */
+.nav-icon {
+    color: black;
+    background-color: #6ed0f7;
+    border-radius: 50%;
+    padding: 5px;
+    border: 1px solid black;
+}
+.container-main {
+    margin-bottom: 80px;
+}
+
 
 .header {
     color: #6ed0f7;
@@ -8,34 +28,45 @@ body {
 
 .container {
     background-color: white;
+    border-radius: 2%;
 }
 
-.my-textarea {
+.form-group {
     width: 50%;
     height: 100px;
 
-}
-
-.my-button {
-    margin: 0 auto;
-    padding: 10%;
 }
 
 .my-form {
     margin: 5% auto;
 }
 
+.my-button {
+    margin: 0 auto;
+    padding: 10%;
+}
 .img-fluid {
     margin: 10px auto;
+    border-radius: 2%;
 }
 
-.navbar-brand {
-    background-color: #6ed0f7;
+
+
+footer {
+    border-top: 5px solid #6ed0f7;
 }
 
 @media only screen and (max-width: 400px) {
 
     .my-container {
         max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .form-group {
+        width: 100%;
+        height: 100px;
+
     }
 }
