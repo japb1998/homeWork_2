@@ -1,0 +1,94 @@
+body {
+    background-image: url("./img/pexels-pixabay-270360.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* Name Styling*/
+.navbar-brand {
+    background-color: #646768;
+    border-radius: .25rem;
+    padding: 10px;
+    border: 1px solid black;
+    font-family: 'Cinzel', serif;
+}
+/* nav-item's styling */
+/* .nav-icon {
+    color: black;
+    background-color: #6ed0f7;
+    border-radius: .25rem;
+    padding: 5px;
+    border: 1px solid black;
+} */
+li {
+    font-family:'Cinzel', serif ;
+    font-weight: 700;
+}
+.nav-link {
+    color: black;
+}
+.card-header{
+    color: white;
+}
+.container-main {
+    margin-bottom: 80px;
+}
+
+.container {
+    background-color: rgb(59, 58, 58);
+    border-radius: .25rem;
+    border: black double 1px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-group {
+    width: 70%;
+    height: 100px;
+
+}
+.card-text{
+    color: white;
+}
+
+.my-form {
+    margin: 5% auto;
+}
+
+/* .my-button {
+    margin: 0 auto;
+    padding: 10%;
+} */
+.card{ background: rgb(59, 58, 58) ;
+    border: black 1px double;
+    margin: 2%;
+    border-radius: 2%;
+    height: 400px;
+    overflow: scroll;}
+
+div img{
+    height: 18rem;
+    width: auto;
+}
+
+
+footer {
+    border-top: 5px solid #000000;
+    background-color:rgb(59, 58, 58) ;
+} 
+.card::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .card{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+@media only screen and (max-width: 768px) {
+    div img{
+     height: 10rem;
+    }
+    .card{ background: rgb(59, 58, 58) ;
+        
+       
+  }

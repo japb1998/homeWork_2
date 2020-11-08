@@ -1,27 +1,20 @@
-# homeWork_2
-Welcome to my First website, here you will find a website made with the porpuse of been my portfolio;
-in which we use our experience in Html, Css and Bootstrap 4 grids and classes,
-over the time I will be updating this website with awesome projects that you might be able to use for you own porpuses, for now enjoy it and leave some comments 
-about the website and how we can make it better.
-████████████████████████████████████████
-████████████████████████████████████████
-██████▀░░░░░░░░▀████████▀▀░░░░░░░▀██████
-████▀░░░░░░░░░░░░▀████▀░░░░░░░░░░░░▀████
-██▀░░░░░░░░░░░░░░░░▀▀░░░░░░░░░░░░░░░░▀██
-██░░░░░░░░░░░░░░░░░░░▄▄░░░░░░░░░░░░░░░██
-██░░░░░░░░░░░░░░░░░░█░█░░░░░░░░░░░░░░░██
-██░░░░░░░░░░░░░░░░░▄▀░█░░░░░░░░░░░░░░░██
-██░░░░░░░░░░████▄▄▄▀░░▀▀▀▀▄░░░░░░░░░░░██
-██▄░░░░░░░░░████░░░░░░░░░░█░░░░░░░░░░▄██
-████▄░░░░░░░████░░░░░░░░░░█░░░░░░░░▄████
-██████▄░░░░░████▄▄▄░░░░░░░█░░░░░░▄██████
-████████▄░░░▀▀▀▀░░░▀▀▀▀▀▀▀░░░░░▄████████
-██████████▄░░░░░░░░░░░░░░░░░░▄██████████
-████████████▄░░░░░░░░░░░░░░▄████████████
-██████████████▄░░░░░░░░░░▄██████████████
-████████████████▄░░░░░░▄████████████████
-██████████████████▄▄▄▄██████████████████
-████████████████████████████████████████
-████████████████████████████████████████
+# My Portfolio
+
+<hr>
+
+## My Respository
+this is the repo where all the magic is happening for Coding Quiz (https://github.com/japb1998/portfolio). 
+
+## Files
+contains an index.html file with the bio, a portfolio.html with my current proyects and the technologies used for it and a contact.html file with the inputs to be contacted.
 
 
+
+
+## index.html
+![screenshot of the app](./assets/img/img1.png)
+## portfolio.html
+![scrennshot of how the prompt is display if you do not give your name ](./assets/img/img2.png)
+ ## contact.html
+ ![screenshot](./assets/img/img3.png)
+ 
